@@ -1,6 +1,6 @@
 
 ### SIT737- Cloud Native Application Development ####
-#### 4.1P: Building a simple calculator microservice
+#### 4.2C: Enhanced Functionality for the Calculator Microservice 
 
 #### Overview
 
