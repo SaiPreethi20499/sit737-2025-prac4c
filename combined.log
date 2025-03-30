@@ -1,0 +1,67 @@
+{"level":"info","message":"Operation: div, Numbers: 5, 3, Result: 1.6666666666666667","service":"calculator-microservice"}
+{"level":"info","message":"Operation: div, Numbers: 5, 3, Result: 1.6666666666666667","service":"calculator-microservice"}
+{"level":"info","message":"Operation: div, Numbers: 15, 3, Result: 5","service":"calculator-microservice"}
+{"level":"info","message":"Operation: exp, Numbers: 15, 3, Result: 3375","service":"calculator-microservice"}
+{"level":"info","message":"Operation: sqrt, Numbers: 15, 3, Result: 3.872983346207417","service":"calculator-microservice"}
+{"level":"error","message":"Invalid operation: smod","service":"calculator-microservice"}
+{"level":"error","message":"Invalid operation. Use add, sub, mul, div, exp, sqrt, or mod.","service":"calculator-microservice"}
+{"level":"info","message":"Operation: mod, Numbers: 15, 3, Result: 0","service":"calculator-microservice"}
+{"level":"info","message":"Operation: mod, Numbers: 15, 4, Result: 3","service":"calculator-microservice"}
+{"level":"info","message":"Operation: mod, Numbers: 15, 4, Result: 3","service":"calculator-microservice"}
+{"level":"info","message":"Operation: mod, Numbers: 15, 4, Result: 3","service":"calculator-microservice"}
+{"level":"error","message":"Cannot perform modulo by zero","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input","service":"calculator-microservice"}
+{"level":"error","message":"Both num1 and num2 (if applicable) must be valid numbers.","service":"calculator-microservice"}
+{"level":"info","message":"Operation: percentage, Numbers: 15, 5, Result: 300","service":"calculator-microservice"}
+{"level":"info","message":"Operation: percentage, Numbers: 100, 5, Result: 2000","service":"calculator-microservice"}
+{"level":"info","message":"Operation: percentage, Numbers: 10, 5, Result: 200","service":"calculator-microservice"}
+{"level":"info","message":"Operation: percentage, Numbers: 10, 5, Result: 200","service":"calculator-microservice"}
+{"level":"info","message":"Operation: percentage, Numbers: 10, 5, Result: 200","service":"calculator-microservice"}
+{"level":"info","message":"Operation: percentage, Numbers: 10, 5, Result: 50","service":"calculator-microservice"}
+{"level":"info","message":"Operation: percentage, Numbers: 10, 5, Result: 50","service":"calculator-microservice"}
+{"level":"info","message":"Operation: percentage, Numbers: 10, 5, Result: 50","service":"calculator-microservice"}
+{"level":"info","message":"Operation: percentage, Numbers: 100, 50, Result: 50","service":"calculator-microservice"}
+{"level":"info","message":"Operation: percentage, Numbers: 100, 20, Result: 20","service":"calculator-microservice"}
+{"level":"info","message":"Operation: percentage, Numbers: 150, 50, Result: 33.33333333333333","service":"calculator-microservice"}
+{"level":"info","message":"Operation: percentage, Numbers: 150, 75, Result: 50","service":"calculator-microservice"}
+{"level":"info","message":"Operation: percentage, Numbers: 150, 0, Result: 0","service":"calculator-microservice"}
+{"level":"info","message":"Operation: percentage, Numbers: 150, 10, Result: 6.666666666666667","service":"calculator-microservice"}
+{"level":"info","message":"Operation: percentage, Numbers: 0, 10, Result: Infinity","service":"calculator-microservice"}
+{"level":"error","message":"Cannot divide by zero","service":"calculator-microservice"}
+{"level":"info","message":"Operation: percentage, Numbers: 10, 10, Result: 100","service":"calculator-microservice"}
+{"level":"info","message":"Operation: div, Numbers: 5, 3, Result: 1.6666666666666667","service":"calculator-microservice"}
+{"level":"error","message":"n is not defined","service":"calculator-microservice"}
+{"level":"error","message":"n is not defined","service":"calculator-microservice"}
+{"level":"error","message":"n is not defined","service":"calculator-microservice"}
+{"level":"info","message":"Operation: percentage, Numbers: 5, 15, Result: 0.75","service":"calculator-microservice"}
+{"level":"info","message":"Operation: percentage, Numbers: 50, 15, Result: 7.5","service":"calculator-microservice"}
+{"level":"info","message":"Operation: mod, Numbers: 50, 15, Result: 5","service":"calculator-microservice"}
+{"level":"info","message":"Operation: exp, Numbers: 50, 15, Result: 3.0517578125e+25","service":"calculator-microservice"}
+{"level":"info","message":"Operation: exp, Numbers: 2, 3, Result: 8","service":"calculator-microservice"}
+{"level":"info","message":"Operation: exp, Numbers: 2, 5, Result: 32","service":"calculator-microservice"}
+{"level":"info","message":"Operation: sqrt, Numbers: 2, 5, Result: 1.4142135623730951","service":"calculator-microservice"}
+{"level":"info","message":"Operation: sqrt, Numbers: 2, null, Result: 1.4142135623730951","service":"calculator-microservice"}
+{"level":"info","message":"Operation: sqrt, Numbers: 2, null, Result: 1.4142135623730951","service":"calculator-microservice"}
+{"level":"info","message":"Operation: sqrt, Numbers: 5, null, Result: 2.23606797749979","service":"calculator-microservice"}
+{"level":"info","message":"Operation: sqrt, Numbers: 2, null, Result: 1.4142135623730951","service":"calculator-microservice"}
+{"level":"info","message":"Operation: sqrt, Numbers: 4, null, Result: 2","service":"calculator-microservice"}
+{"level":"info","message":"Operation: sqrt, Numbers: 9, null, Result: 3","service":"calculator-microservice"}
+{"level":"info","message":"Operation: sqrt, Numbers: 8, null, Result: 2.8284271247461903","service":"calculator-microservice"}
+{"level":"info","message":"Operation: sqrt, Numbers: 5, null, Result: 2.23606797749979","service":"calculator-microservice"}
+{"level":"info","message":"Operation: cbrt, Numbers: 5, null, Result: 1.709975946676697","service":"calculator-microservice"}
+{"level":"info","message":"Operation: cbrt, Numbers: 15, null, Result: 2.46621207433047","service":"calculator-microservice"}
+{"level":"info","message":"Operation: cbrt, Numbers: 25, null, Result: 2.924017738212866","service":"calculator-microservice"}
+{"level":"info","message":"Operation: cbrt, Numbers: 9, null, Result: 2.080083823051904","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input","service":"calculator-microservice"}
+{"level":"error","message":"Both num1 and num2 (if applicable) must be valid numbers.","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input","service":"calculator-microservice"}
+{"level":"error","message":"Both num1 and num2 (if applicable) must be valid numbers.","service":"calculator-microservice"}
+{"level":"info","message":"Operation: cbrt, Numbers: 27, null, Result: 3","service":"calculator-microservice"}
+{"level":"info","message":"Operation: cbrt, Numbers: 8, null, Result: 2","service":"calculator-microservice"}
+{"level":"info","message":"Operation: div, Numbers: 5, 3, Result: 1.6666666666666667","service":"calculator-microservice"}
+{"level":"info","message":"Operation: exp, Numbers: 2, 5, Result: 32","service":"calculator-microservice"}
+{"level":"info","message":"Operation: exp, Numbers: 4, null, Result: NaN","service":"calculator-microservice"}
+{"level":"info","message":"Operation: sqrt, Numbers: 4, null, Result: 2","service":"calculator-microservice"}
+{"level":"info","message":"Operation: sqrt, Numbers: 16, null, Result: 4","service":"calculator-microservice"}
+{"level":"info","message":"Operation: mod, Numbers: 15, 5, Result: 0","service":"calculator-microservice"}
+{"level":"info","message":"Operation: mod, Numbers: 15, 6, Result: 3","service":"calculator-microservice"}

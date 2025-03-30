@@ -1,0 +1,13 @@
+{"level":"error","message":"Invalid operation: smod","service":"calculator-microservice"}
+{"level":"error","message":"Invalid operation. Use add, sub, mul, div, exp, sqrt, or mod.","service":"calculator-microservice"}
+{"level":"error","message":"Cannot perform modulo by zero","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input","service":"calculator-microservice"}
+{"level":"error","message":"Both num1 and num2 (if applicable) must be valid numbers.","service":"calculator-microservice"}
+{"level":"error","message":"Cannot divide by zero","service":"calculator-microservice"}
+{"level":"error","message":"n is not defined","service":"calculator-microservice"}
+{"level":"error","message":"n is not defined","service":"calculator-microservice"}
+{"level":"error","message":"n is not defined","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input","service":"calculator-microservice"}
+{"level":"error","message":"Both num1 and num2 (if applicable) must be valid numbers.","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input","service":"calculator-microservice"}
+{"level":"error","message":"Both num1 and num2 (if applicable) must be valid numbers.","service":"calculator-microservice"}
